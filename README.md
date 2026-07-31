@@ -18,7 +18,7 @@
 
 ## 安装
 
-- **Greasy Fork**：[点击安装](https://greasyfork.org/zh-CN/scripts/589268-%E5%8E%BB%E4%BB%96%E5%A6%88%E7%9A%84%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD)
+- **Greasy Fork**：[点击安装](https://greasyfork.org/zh-CN/scripts/589268-去他妈的高速下载)
 - **GitHub 直链**：[点击安装](https://raw.githubusercontent.com/mexiaosqwq/fuck-high-speed-download/main/%E5%8E%BB%E4%BB%96%E5%A6%88%E7%9A%84%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD.js)
 
 > 需要先安装 [Tampermonkey](https://www.tampermonkey.net/) 浏览器扩展
